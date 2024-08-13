@@ -1,8 +1,16 @@
-
-
+@import url('https://fonts.googleapis.com/css2?family=Fondamento:ital@0;1&display=swap');
+.fondamento-regular {
+  font-family: "Fondamento", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
+font-family: 'Fondamento'
 }
-
+body{
+ background: radial-gradient(circle at 100%, darkgreen, darkgreen 50%, rgb(99, 149, 165) 75%, darkgreen 75%);
+  
+} 
